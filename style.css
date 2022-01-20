@@ -1,0 +1,10 @@
+@media only screen and (max-width:576px){
+    .extra img , .extra h3{
+           margin: 0 auto;
+           display: flex;
+           justify-content: center;
+    }
+    .extra p{
+        text-align: center;
+    }
+}
